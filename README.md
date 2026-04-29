@@ -2,7 +2,7 @@
 📝Mi nombre es Liliana Zabaleta tengo 18 años<br>🎥Me gusta ver películas y es mi pasatiempo favorito.<br>🌮Mi comida favorita son los tacos y la carne asada 🥩<br>Quiero sacar mi carrera y poderme graduar de bachiller y universidad sacar el título de ingeniera en Desarrollo de Software 👩🏻‍💻y Odontología 🦷 <br>Poder aprender el idioma francés. <br>Y poder viajar a Grecia, Inglaterra y Turquía.
 
 
-## 🌐 Socials:
+## 🌐 Sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/LiliSerrano) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xzz.lyli ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lilianaserrano018@gmail.com) 
 
 # 💻 Tech Stack:
